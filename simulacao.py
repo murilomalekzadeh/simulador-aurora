@@ -654,7 +654,7 @@ def simulacao_completa(prob_cliente_normal_recrutar = 0.03,
         netos_ = niveis[2]
         bisnetos_ = niveis[3]
 
-        bonus = 0
+        bonus = 0.0
 
         # Afiliado
         if categoria == "Afiliado":
