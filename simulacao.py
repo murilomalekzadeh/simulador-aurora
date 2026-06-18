@@ -20,7 +20,6 @@ def simulacao_completa(prob_cliente_normal_recrutar = 0.03,
 
     import pandas as pd
     import numpy as np
-    #import matplotlib.pyplot as plt
     from collections import defaultdict
     import time
     import os
